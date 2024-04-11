@@ -1,5 +1,5 @@
 import "./App.css";
-import freeCodeCampLogo from "./imagenesfreecodecamp-logo.png";
+import freeCodeCampLogo from "./imagenes/freecodecamp-logo.png";
 
 function App() {
   return (
@@ -11,6 +11,7 @@ function App() {
           alt="Logo de freeCodeCamp"
         />
       </div>
+      <div className="contenedor-principal">
     </div>
   );
 }
